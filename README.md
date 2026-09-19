@@ -21,3 +21,7 @@ A Bannerlord mod that removes fallen heroes from the main clan list and places t
 
 - Game version: v1.2.12, v1.3.15, v1.4.5 – v1.4.8
 - No known conflicts with other mods.
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
