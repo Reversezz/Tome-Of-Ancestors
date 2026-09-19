@@ -2,7 +2,7 @@
 
 A Bannerlord mod that removes fallen heroes from the main clan list and places them in a separate section.
 
-[![Nexus Mods](https://img.shields.io/badge/NexusMods-Tome%20of%20Ancestors-orange)](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX)
+[![Nexus Mods](https://img.shields.io/badge/NexusMods-Tome%20of%20Ancestors-orange)](https://www.nexusmods.com/mountandblade2bannerlord/mods/10595)
 
 ## What it does
 
@@ -13,15 +13,11 @@ A Bannerlord mod that removes fallen heroes from the main clan list and places t
 ## Installation
 
 1. Install [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006), [ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018) and [MCM](https://www.nexusmods.com/mountandblade2bannerlord/mods/612).
-2. Download the mod from [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX).
+2. Download the mod from [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/10595).
 3. Extract the `TomeOfAncestors` folder into your `Modules` directory.
 4. Enable the mod in the launcher.
 
 ## Compatibility
 
-- Game version: 1.4.5 – 1.4.8
+- Game version: v1.2.12, v1.3.15, v1.4.5 – v1.4.8
 - No known conflicts with other mods.
-
-## Download
-
-[Download on Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/XXXX)
