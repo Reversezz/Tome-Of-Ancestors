@@ -18,7 +18,7 @@ namespace TomeOfAncestors
             
             UIExtender extender = UIExtender.Create("TomeOfAncestors");
             extender.Register(typeof(SubModule).Assembly);
-            extender.Enable();            
+            extender.Enable();            // dsda
         }
     }
 }
