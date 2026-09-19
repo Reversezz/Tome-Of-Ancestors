@@ -29,12 +29,12 @@ namespace TomeOfAncestors
         {
             new Attribute("MarginTop", "20")
         };
-    }
+    }   
 
     // По факту перехватываем выполнение метода RefreshValues
     // из EncyclopediaClanPageVM и добавляем туда собственную реализацию - DeadMembersPatch.
     // После перехвата мы вызываем наш патч, там наша dll сначала вылавливает FileNamePatch, а после 
-    // тип внедрения и получает Append, а значит "добавление ПОСЛЕ выбранного тега.
+    // тип внедрения и получает Append, а значит "добавление ПОСЛЕ выбранного тега.ы
     [ViewModelMixin("RefreshValues")] 
     public class ExtendEncyclopediaClanPageVM : BaseViewModelMixin<EncyclopediaClanPageVM>
     {
